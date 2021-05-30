@@ -17,7 +17,7 @@ You can access the website by clicking here ➡ **laughacademy.bitbucket.io** in
 
 
 ## Contributors:
-Alayo Cordova, Diego Marco Jorel  
+Li, Edwin 
 [Zafar, Malik](https://www.linkedin.com/in/malik-zafar-122668213/) 🔗   
 [Xenos, Nick](https://www.linkedin.com/in/xenosnick/) 🔗  
 [myself, Emma De Barros](https://www.linkedin.com/in/emma-de-barros/) 🔗
