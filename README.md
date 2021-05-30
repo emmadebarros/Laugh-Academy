@@ -1,4 +1,4 @@
-# 🚀 Apollo Travels - PHP Final Project 🚀
+## 🤡 Laugh Academy - Website Design Final Project 🤡
 # Description
 
 This is the final source code for the final CSS/Bootstrap project that was created for the purpose of the Website Design course, with professor [Stephanie Moreau](https://www.linkedin.com/in/stephmoreau1/) 🔗.
