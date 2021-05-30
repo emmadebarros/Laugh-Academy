@@ -23,8 +23,8 @@ Alayo Cordova, Diego Marco Jorel
 
 ## Resources
 
-Here is the link to our [Trello Board](https://trello.com/b/KQgY9ITw/apollotravels).
+Here is the link to our [Trello Board](https://trello.com/b/KQgY9ITw/apollotravels) 🔗.
 
 You'll also find in this repository our DailyScrum folder, that demonstrates our understanding and use of delivery methodologies used in the industry to date such as SCRUM, LEAN, AGILE and Version Control. 
 
-If you're interested in seeing all of the team's commits, take a look at our [Bitbucket repository](https://bitbucket.org/laughacademy/laughacademy.bitbucket.io/src/master/).
+If you're interested in seeing all of the team's commits, take a look at our [Bitbucket repository](https://bitbucket.org/laughacademy/laughacademy.bitbucket.io/src/master/) 🔗.
