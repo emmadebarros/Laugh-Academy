@@ -1,0 +1,157 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #7C48F0;
+}
+
+h6 {
+    color: #000;
+}
+
+
+body {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    text-transform: uppercase;
+}
+
+section {
+    margin-top: 4rem !important;
+}
+
+
+/* Intro section */
+
+.buttonOne {
+    color: #fff;
+    clip-path: polygon(100% 4%, 100% 89%, 0 95%, 0 8%);
+    background-color: #7C48F0;
+}
+
+.buttonOne:hover {
+    transform: scale(1.5);
+}
+
+.video {
+    z-index: 200;
+}
+
+.whiteLink:hover {
+    color: #000;
+}
+
+/* Explore courses section */
+
+.explore {
+    margin: 7rem 0 !important;
+}
+
+.clownIcon {
+    max-height: 3rem;
+}
+
+.clownIcon:hover {
+    animation: rotateBig 1s;
+}
+
+@keyframes rotateBig {
+    0% {
+        opacity: 1;
+        transform: rotate(0) scale(1);
+    }
+
+    25% {
+        opacity: 1;
+        transform: rotate(90deg) scale(1.5);
+    }
+
+    50% {
+        opacity: 1;
+        transform: rotate(180deg) scale(1.2);
+    }
+
+    75% {
+        opacity: 1;
+        transform: rotate(270deg) scale(1.5);
+    }
+
+    100% {
+        opacity: 1;
+        transform: rotate(360deg) scale(1);
+    }
+}
+
+.buttonThree {
+    clip-path: polygon(20% 33%, 91% 21%, 91% 69%, 20% 69%);
+}
+
+.element {
+    margin: 0 1rem;
+}
+
+.element > img {
+    height: 3%;
+}
+
+
+
+/* Media Queries */
+
+@media only screen and (max-width: 600px) {
+    .intro {
+        --bs-gutter-x: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .video {
+        height: 100%;
+        width: 98%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    p {
+        padding-top: 2rem;
+        text-align: justify;
+    }
+
+    .buttonOne {
+        margin-top: 4rem;
+    }
+}
+
+/* w3schools list of media queries */
+
+/* Extra small devices (phones, 600px and down)
+@media only screen and (max-width: 600px) {
+    ...
+}
+
+Small devices (portrait tablets and large phones, 600px and up)
+@media only screen and (min-width: 600px) {
+    ...
+}
+
+Medium devices (landscape tablets, 768px and up)
+@media only screen and (min-width: 768px) {
+    ...
+}
+
+Large devices (laptops/desktops, 992px and up)
+@media only screen and (min-width: 992px) {
+    ...
+}
+
+Extra large devices (large laptops and desktops, 1200px and up)
+@media only screen and (min-width: 1200px) {
+    ...
+}
+*/
+
+/* Emma */
