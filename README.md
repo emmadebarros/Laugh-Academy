@@ -16,7 +16,7 @@ You can access the website by clicking here ➡ **laughacademy.bitbucket.io** in
 * Media Queries
 
 
-## Contributors:
+## Contributors
 Li, Edwin  
 [Zafar, Malik](https://www.linkedin.com/in/malik-zafar-122668213/) 🔗   
 [Xenos, Nick](https://www.linkedin.com/in/xenosnick/) 🔗  
